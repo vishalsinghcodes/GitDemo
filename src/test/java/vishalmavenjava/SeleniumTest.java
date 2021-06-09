@@ -7,6 +7,10 @@ public class SeleniumTest {
 	@Test
 	public void BrowserAutomation() {
 		System.out.println("This is browserAutomation of SeleniumTest Class");
+		
+		System.out.println("This is browserAutomation by X");
+		
+		System.out.println("This is browserAutomation by X");
 	}
 	
 	@Test
