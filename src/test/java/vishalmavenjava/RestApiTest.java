@@ -29,6 +29,18 @@ public class RestApiTest {
 			
 			System.out.println("This is a change 2222222222 by X man");
 		}
+	
+	@Test
+	public void deleteTwitterrr() {
+			System.out.println("This is deleteTwitter of RestApiTest Class in develop branch");
+		}
+		
+	
+	@Test
+	public void deleteTwitterrrrr() {
+			System.out.println("This is deleteTwitter of RestApiTest Class in develop branch");
+		}
+		
 		
 	}
 

@@ -26,8 +26,25 @@ public class AppiumTest {
 	}
 	
 	@Test
+	public void NativeAppAndroid2() {
+		System.out.println("This is NativeAppAndroid of AppiumTest Class");
+		
+	}
+	
+	@Test
 	public void IOSApps() {
 		System.out.println("This is IOSApps of Appium Test Class");
+		
+		System.out.println("This is done in develop branch ");
+		System.out.println("This is IOSApps of Appium Test Class in develop branch");
+	}
+	
+	@Test
+	public void IOSApps3() {
+		System.out.println("This is IOSApps of Appium Test Class");
+		
+		System.out.println("This is done in develop branch ");
+		System.out.println("This is IOSApps of Appium Test Class in develop branch");
 	}
 	
 }
