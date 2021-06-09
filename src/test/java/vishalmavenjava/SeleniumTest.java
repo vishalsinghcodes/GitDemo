@@ -18,4 +18,9 @@ public class SeleniumTest {
 		System.out.println("This is elementsUi of SeleniumTest Class");
 	}
 	
+	@Test
+	public void elementsUiFinal() {
+		System.out.println("This is elementsUi of SeleniumTest Class");
+	}
+	
 }
