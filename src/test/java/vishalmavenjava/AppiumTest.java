@@ -9,7 +9,10 @@ public class AppiumTest {
 	
 	@BeforeMethod
 	public void beforemethod() {
-		System.out.println("This is before method in AppiumTest Class");
+
+		System.out.println("This is before method in AppiumTest Class");	
+		System.out.println("This is before method in AppiumTest Class by demo man");	
+		System.out.println("This is before method in AppiumTest Class by demo man");	
 	}
 	@AfterTest
 	public void aftertest() {
