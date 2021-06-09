@@ -16,12 +16,18 @@ public class RestApiTest {
 		
 		System.out.println("Post Jira 3 by X person");
 		
+		System.out.println("Post Jira 3 by Demo person");
+		System.out.println("Post Jira 3 by Demo person");
+		
 		
 	}
 	
 	@Test
 	public void deleteTwitter() {
 			System.out.println("This is deleteTwitter of RestApiTest Class");
+			
+			
+			System.out.println("This is a change 2222222222 by X man");
 		}
 		
 	}

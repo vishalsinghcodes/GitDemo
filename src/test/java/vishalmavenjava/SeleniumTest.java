@@ -11,6 +11,9 @@ public class SeleniumTest {
 		System.out.println("This is browserAutomation by X");
 		
 		System.out.println("This is browserAutomation by X");
+		
+		System.out.println("This is browserAutomation by Demo");
+		System.out.println("This is browserAutomation by Demo");
 	}
 	
 	@Test
