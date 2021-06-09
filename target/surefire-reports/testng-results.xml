@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="53379" started-at="2021-05-18T05:22:38Z" finished-at="2021-05-18T05:23:32Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="53379" started-at="2021-05-18T05:22:38Z" finished-at="2021-05-18T05:23:32Z">
+      <class name="vishalmavenjava.AppiumTest">
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:vishalmavenjava.AppiumTest@2d3fcdbd]" name="beforemethod" is-config="true" duration-ms="20" started-at="2021-05-18T10:52:38Z" finished-at="2021-05-18T10:52:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:vishalmavenjava.AppiumTest@2d3fcdbd]" name="IOSApps" duration-ms="2" started-at="2021-05-18T10:52:38Z" finished-at="2021-05-18T10:52:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:vishalmavenjava.AppiumTest@2d3fcdbd]" name="NativeAppAndroid" duration-ms="0" started-at="2021-05-18T10:52:38Z" finished-at="2021-05-18T10:52:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:vishalmavenjava.AppiumTest@2d3fcdbd]" name="beforemethod" is-config="true" duration-ms="0" started-at="2021-05-18T10:52:38Z" finished-at="2021-05-18T10:52:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:vishalmavenjava.AppiumTest@2d3fcdbd]" name="aftertest" is-config="true" duration-ms="1" started-at="2021-05-18T10:53:32Z" finished-at="2021-05-18T10:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- vishalmavenjava.AppiumTest -->
+      <class name="vishalmavenjava.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:vishalmavenjava.SeleniumTest@3f2a3a5]" name="BrowserAutomation" duration-ms="0" started-at="2021-05-18T10:53:32Z" finished-at="2021-05-18T10:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:vishalmavenjava.SeleniumTest@3f2a3a5]" name="elementsUi" duration-ms="0" started-at="2021-05-18T10:53:32Z" finished-at="2021-05-18T10:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- vishalmavenjava.SeleniumTest -->
+      <class name="vishalmavenjava.RestApiTest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:vishalmavenjava.RestApiTest@54a097cc]" name="deleteTwitter" duration-ms="0" started-at="2021-05-18T10:53:32Z" finished-at="2021-05-18T10:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:vishalmavenjava.RestApiTest@54a097cc]" name="postJira" duration-ms="0" started-at="2021-05-18T10:53:32Z" finished-at="2021-05-18T10:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- vishalmavenjava.RestApiTest -->
+      <class name="vishalmavenjava.GoogleTest">
+        <test-method status="PASS" signature="abc()[pri:0, instance:vishalmavenjava.GoogleTest@3cbbc1e0]" name="abc" duration-ms="22799" started-at="2021-05-18T10:52:38Z" finished-at="2021-05-18T10:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+        <test-method status="PASS" signature="xyz()[pri:0, instance:vishalmavenjava.GoogleTest@3cbbc1e0]" name="xyz" duration-ms="30499" started-at="2021-05-18T10:53:01Z" finished-at="2021-05-18T10:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xyz -->
+      </class> <!-- vishalmavenjava.GoogleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
